@@ -141,7 +141,7 @@ git tag interesting v1.4.4-g730996f # tag a specific revision (not HEAD)
 
 
 
-### Comparing Revisions
+### Comparing Revision
 # diff between two branches
 git diff origin..master             # pipes a diff into PAGER
 git diff origin..master > my.patch  # pipes a diff into my.patch
